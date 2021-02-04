@@ -1,0 +1,69 @@
+{
+  "ShapeNetV1": {
+    "02691156": [
+      "3c1e298b4222f4d15d3bbd70fc7759b7.obj",
+      "a430ba73d3ee2c0fca9f0727e23831d9.obj",
+      "707cb24ab99bff07e2aeeb16e93626f.obj"
+    ],
+    "02828884": [
+      "36583be1062e0f48c24b862f5ee36086.obj",
+      "835086fd24eb283650f9fc0e2c94dd76.obj",
+      "459cad806518f195ba6d436b28fcddfb.obj"
+    ],
+    "02933112": [
+      "45342795c9bf86d94b8710a3469971b1.obj",
+      "401960cb8526894f4b8710a3469971b1.obj",
+      "9f07ee5bcf6a4b11151b305e5243d9f8.obj"
+    ],
+    "02958343": [
+      "68a2f952a3f87af16ddf6b8d3442e199.obj",
+      "a6c625f18280c8d94ecc271292c8317.obj",
+      "767c1f5e35b687f4b10dd3e7bf355b8d.obj"
+    ],
+    "03001627": [
+      "818c483496ce96745eea3e3d89293379.obj",
+      "1825f6f71e68da9da36af77e45b32071.obj",
+      "7228d43e00af4c1e2746490e2236e9a8.obj"
+    ],
+    "03211117": [
+      "2c1e2873955b563920685b5a7e34b501.obj",
+      "60e6ee2c3a2aa3fd6d07c55cf995503e.obj",
+      "58fceeffe91b7b1c20685b5a7e34b501.obj"
+    ],
+    "03636649": [
+      "4a868756ae6404a5c0bc57897eddf6f.obj",
+      "6f6a74a5528a7b5d88e7662971dc736f.obj",
+      "2cdb96501ab2ccbf35836c728d324152.obj"
+    ],
+    "03691459": [
+      "2aad0ff91e947e64baf402ca36cbac3b.obj",
+      "95d01543b46b5e43f398d0c5832df00e.obj",
+      "614a16b7b994063af6d28508a7c94d33.obj"
+    ],
+    "04090263": [
+      "73903a9846293890a1ce1dd4c7e01188.obj",
+      "8935329f244ca398cd89d443b4b6353a.obj",
+      "68cf8f5e1bfb9ff8e71e857afa9df271.obj"
+    ],
+    "04256520": [
+      "5fa872fc2e0447fe75fa15ccf4d13b00.obj",
+      "2b8d1c67d17d3911d9cff7df5347abca.obj",
+      "a3ec914d44cd2bd8498bd5a555c21b1c.obj"
+    ],
+    "04379243": [
+      "4903be367953db8c579961b8f4afc151.obj",
+      "72cc0fe296b9172617271868b642acd3.obj",
+      "279351131d06222cbe9bca6d7b2e5b3.obj"
+    ],
+    "04401088": [
+      "2f468e01f4fdcb54d81a607e3ac2f927.obj",
+      "37846d5854ef7da646e4b9487666a2f7.obj",
+      "57245f4db78fc2be7aa291768a04b26f.obj"
+    ],
+    "04530566": [
+      "1e8c9dd30d54392856d301bf1319ad4.obj",
+      "40d4cf2e4c0042b81f6b8c144863b7d.obj",
+      "2b58ca08b8f93769c5408f4f799fe72.obj"
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "ShapeNetV1": {
+    "02691156": [
+      "8c1d67bf88f34ac55823df672991ed66.obj",
+      "4635326bc4fdc3e9297cd7e2ef7dfa80.obj",
+      "98ca06c300ad5a6bdc9181d6fa468db3.obj",
+      "3fba2f3ea21abb4f8c1b0ccac3d04f1.obj",
+      "8de793e2e964f40a26c713777861983a.obj",
+      "12991e9529a2b2bf9ac9930d2147598f.obj",
+      "9e617d72fabc718b90b1d6deb98feec6.obj",
+      "13f9eb29d699488a99eab31c7df6f5c3.obj",
+      "2a895d17616bcae1f361e4786a4d3c00.obj",
+      "7279a912e89a6f00adcbeb54f3d014e9.obj"
+    ],
+    "02828884": [
+      "537a02eff282b33df58bc14da5676759.obj",
+      "8bf63e9b3df32ff1e1aaa7ea27fc24bf.obj",
+      "8c942a8e196a9371a782a4379556c7.obj",
+      "1a40eaf5919b1b3f3eaa2b95b99dae6.obj",
+      "6319038bd4748a03d2b12aa6a0f050b3.obj",
+      "2c47d12adb8437ed601104cd2d998272.obj",
+      "8ff9b4b57eb5a60daed1fc72009b42ac.obj",
+      "6953a491a4c74d42d5cec9a69bf229a3.obj",
+      "23931fb6b6c46da895f577622f465c85.obj",
+      "3b7fc97192e483ebb0bf045ee98272fc.obj"
+    ],
+    "02933112": [
+      "544fbd4d4c1d445498a4820926b2a786.obj",
+      "3b307c9b473270a1c59350d819542ec7.obj",
+      "86d1c6a6a2278e7e1b17743c18fb63dc.obj",
+      "42c3c76c8c8912c61b17743c18fb63dc.obj",
+      "76fa5df01e82242c684b7bc3f8a9aa55.obj",
+      "4073ca6ce52b5d65ce5d6e9371bb5c33.obj",
+      "24c781a3aa6310a44da5feafe6f1c8fc.obj",
+      "9ffc432bb61dff9f339797c21e8801b1.obj",
+      "61f79a63ee5315693fb45d07cfab7906.obj",
+      "37fbc4e7c9e46b602b5631520b7d94fe.obj"
+    ],
+    "02958343": [
+      "30964e51b5218487577fbd27130e143.obj",
+      "50e986077b994d6aa848f24544821b25.obj",
+      "555a48617127033c25ad20bb66839d61.obj",
+      "7c12fd51911d85fdafe1d4530f4c6e24.obj",
+      "1c7def6f46fd450b25613fb42e96824a.obj",
+      "ad00611d36e535f266d77f2d6fcbca33.obj",
+      "74b37c2f88e0ef7a469bb3d27ee3bc4e.obj",
+      "460f7950d804d4564d7ac55d461d1984.obj",
+      "71304f56bb1165e7f42b5c72b4901f94.obj",
+      "bd84ba61effd439cdda1f9f5db2def9.obj"
+    ],
+    "03001627": [
+      "26c9e85dfa18af9fcf004563556ddb36.obj",
+      "2e079c4e7bb26dce9d1cedd9b694fb2.obj",
+      "61de75e888e8727486debb0a33c851f8.obj",
+      "1055f78d441d170c4f3443b22038d340.obj",
+      "7bb5321d1e63d8bb36b0f2a1430e993a.obj",
+      "2abe8d5b5d29ff52f7628281ecb18112.obj",
+      "966aaab0434c950cd7f7a4c4609b0913.obj",
+      "3e28e0f5ca5e03df73227452e5016b6f.obj",
+      "a4ebefeb5cc26f7378a371eb63283bfc.obj",
+      "88058de808184f3937b2bb75885cfc44.obj"
+    ],
+    "03211117": [
+      "421ad85cbba562878fc3447f3635506f.obj",
+      "9a8487c37ea68b49e5a14a547274f040.obj",
+      "7cff26e6dc84bd02c598d38a6a69ad2.obj",
+      "2971f417b08961475a4cd9b26f359d36.obj",
+      "6a759a4b85141936e4157a1ae61981fe.obj",
+      "1ec7d9fe07b94f6e274d4393e80e99fa.obj",
+      "bba0cad6dbbef2589fb287620a60b403.obj",
+      "301148e373839ecc37ab55b97a5e9f9.obj",
+      "676e65417cd3d59f3aabc01aa1c5608b.obj",
+      "70dacf62da510868a5ff93a193b16554.obj"
+    ],
+    "03636649": [
+      "6b10584984035b088314f68ce9e12e4c.obj",
+      "8064580d3a225366ecbab50f1720e223.obj",
+      "1eca42abff644eee57a48b78ff77644d.obj",
+      "7260ad08488a3156f78e32cea3be35af.obj",
+      "5c5119a226e1ce9934804d261199e1bf.obj",
+      "1f5919744e0376315f38797299bc3fc7.obj",
+      "9adee08c737c7c134c6deb9ede0648df.obj",
+      "7527ef1898765c09fcb8d8c6d4df8143.obj",
+      "1facaa0eb35496fb69783ac218a8a2bf.obj",
+      "af3d58dc258e0fe06ef604d255267aae.obj"
+    ],
+    "03691459": [
+      "7c56acc57cae84a9a3e7d768d81f6afa.obj",
+      "88c9a7928bc35ab392b9c678bb1d631f.obj",
+      "1e6a6ff6f4168459e5c00598c3e9532c.obj",
+      "8a3b591b72d0f5326d9bd07411a71e3.obj",
+      "8d5064233fdf0624b6d9c2cee7f2f72b.obj",
+      "9cb881bfcd65686176d485609557b1d2.obj",
+      "8b0544e065d43369588e71e21de9f30.obj",
+      "388ae2b6420bfae26cde9ab9486e09f0.obj",
+      "767b076382b239a72d563c85edb49108.obj",
+      "1733111366ac40b76eb0973c46aae0d4.obj"
+    ],
+    "04090263": [
+      "218c020fa843aafc99f5e7ab39748cd2.obj",
+      "8588b43940114af7eab5ee569c9de1b1.obj",
+      "8bf221c8f17b152b2607a47034bf62a6.obj",
+      "1fd98fb84317ae248cb94bbc7f05ffb7.obj",
+      "608d83aab75edf3c48a76f6e8e0499a6.obj",
+      "2ce39c653c42982948b7bcada24e2926.obj",
+      "8f905b2da32727682a2679e9ffca8e38.obj",
+      "8933f22af2576e5b9f433921788191f3.obj",
+      "83859013886286905dca6305fb9f97ca.obj",
+      "b0bff9f866c3d101af25bbd7d4e31ad.obj"
+    ],
+    "04256520": [
+      "92be674b2edb7f54d18c447b567dbc27.obj",
+      "5c39c2691a36d9e5a8f59bb67a917984.obj",
+      "1af92afe68b3f837f51f77a6d7299806.obj",
+      "79b544db8d95c3dbc1a25f36f85c3fd6.obj",
+      "b9faefaee3f409ce2d86e6f67ef12498.obj",
+      "224ccf9ba2b786d953353c404519f02f.obj",
+      "bfd15618fcd88e104017642dab433250.obj",
+      "ae7af4ea5c63938878585c45c8af09b2.obj",
+      "9500ae0f745fc9efe5b815c86e529aab.obj",
+      "28cb2ca084164fc15da92fb9f7555d73.obj"
+    ],
+    "04379243": [
+      "4805127beacfba4a7e7e510dabdd3cc0.obj",
+      "5788395c87b524db79157224cf10b26.obj",
+      "70d0937e1d38a9c2a45b742ddc5add59.obj",
+      "bab2fefad03208b0935d906e24c18439.obj",
+      "4220d2a91737c68019fb4103277a6b93.obj",
+      "77e24ba0c290ac3eff87aeb86717e73.obj",
+      "27b9211229e1bf011f3980612faf041b.obj",
+      "224766e5a022785af51fa0238791f5dc.obj",
+      "2dcbd662fa03dc88956c2c3ee7a48cc0.obj",
+      "4eae659d4bc093465f675b8d0bab4126.obj"
+    ],
+    "04401088": [
+      "b442b550e827cbcc8ea897fbf75dc392.obj",
+      "81f527c62191bcd465c46de8aef92580.obj",
+      "237b8445c70b1749ce2eca356a0e3474.obj",
+      "a7056690a5bf34d24ffbcf8cf904ca12.obj",
+      "35f584cf8fd22794e4b68d3b17c43658.obj",
+      "a4d81a74a416b88948637414dbe9de8d.obj",
+      "27c4bf6a96c6439a86a04ec9e4169973.obj",
+      "6710c7894efe94cb918f30c146a92bd0.obj",
+      "98c63a8e5485b0a12737a4ff69ca3cd7.obj",
+      "c13cfcc92e41e5a924fb403e4bf9a6b1.obj"
+    ],
+    "04530566": [
+      "528689641a6562e7bd7a55708242b1bb.obj",
+      "8480865aa92d13dd46687b3834d255fa.obj",
+      "696136ed6723971649f471d054f6b528.obj",
+      "389d122da973fd5cd812ac1676a22587.obj",
+      "54ad30894e9c74f28abdeb0a990504a.obj",
+      "6a0da87e5858b4373e45dd2f173cbf9b.obj",
+      "66a90b7b92ff2549f2635cfccf45023.obj",
+      "1c7f49bab676187480901e43af4435c7.obj",
+      "1a2f00c6886f14354d85fb76de815344.obj",
+      "7b7847ccb4f15fa9b1bb46d2556ba67d.obj"
+    ]
+  }
+}
