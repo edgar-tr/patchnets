@@ -2,7 +2,7 @@
 
 This is the official repository for the project "PatchNets: Patch-Based Generalizable Deep Implicit 3D Shape Representations". For details, we refer to [our project page](http://gvv.mpi-inf.mpg.de/projects/PatchNets/), which also includes supplemental videos.
 
-![Teaser figure](misc/teaser.png)
+<img src="https://raw.githubusercontent.com/edgar-tr/patchnets/master/misc/teaser.png" width="383" height="371">
 
 This code requires a functioning installation of [DeepSDF](https://github.com/facebookresearch/DeepSDF), which can then be modified using the provided files.
 
