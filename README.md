@@ -10,7 +10,7 @@ This code requires a functioning installation of [DeepSDF](https://github.com/fa
 
 If you want to use ShapeNet, please follow these steps:
 
-1. Download https://github.com/autonomousvision/occupancy_networks
+1. Download [Occupancy Networks](https://github.com/autonomousvision/occupancy_networks)
 2. On Linux, follow the installation steps from there:
 ```
 conda env create -f environment.yaml
@@ -18,14 +18,13 @@ conda activate mesh_funcspace
 python setup.py build_ext --inplace
 ```
 3. Install the four external dependencies from `external/mesh-fusion`:
-    * for libfusioncpu and libfusiongpu, run cmake and then setup.py
-    * for libmcubes and librender, run setup.py
-4. Replace the original OccNet files with the included slightly modified versions. This mostly switches to using .obj instead of .off
+    * for `libfusioncpu` and `libfusiongpu`, run `cmake` and then `setup.py`
+    * for `libmcubes` and `librender`, run `setup.py`
+4. Replace the original OccNet files with the included slightly modified versions. This mostly switches to using `.obj` instead of `.off`
 5. Prepare the original Shapenet meshes by copying all objs as follows: from `02858304/1b2e790b7c57fc5d2a08194fd3f4120d/model.obj` to `02858304/1b2e790b7c57fc5d2a08194fd3f4120d.obj`
 6. Use `generate_watertight_meshes_and_sample_points()` from `useful_scripts.py`. Needs to be run twice, see comment at `generate_command`.
 7. On a Linux machine with display, `activate mesh_funcspace`
-8. Run the generated `command.sh`
-Note: this preprocessing crashes frequently because some meshes cause issues. They need to be deleted.
+8. Run the generated `command.sh`. Note: this preprocessing crashes frequently because some meshes cause issues. They need to be deleted.
 
 ## Preprocessing
 
@@ -58,7 +57,7 @@ The files in `code/` largely follow DeepSDF and replace the corresponding files 
 
 `code/deep_sdf/data.py` contains the code snippet used for the synthetic noise experiments in Sec. 7 of the supplementary material.
 
-### Additional Functionality
+## Additional Functionality
 
 The code contains additional functionalities that are not part of the publication. They might work but have not been thoroughly tested and can be removed.
 * wrappers to allow for easy interaction with a trained network (do not remove, required to run evaluation)
@@ -90,22 +89,22 @@ The code contains additional functionalities that are not part of the publicatio
 ## Citation
 
 This code builds on DeepSDF. Please consider citing DeepSDF and PatchNets if you use this code.
-
+```
 @article{Tretschk2020PatchNets, 
-author = {Tretschk, Edgar and Tewari, Ayush and Golyanik, Vladislav and Zollh\"{o}fer, Michael and Stoll, Carsten and Theobalt, Christian}, 
-title = "{PatchNets: Patch-Based Generalizable Deep Implicit 3D Shape Representations}", 
-journal = {European Conference on Computer Vision (ECCV)}, 
-year = "2020" 
+    author = {Tretschk, Edgar and Tewari, Ayush and Golyanik, Vladislav and Zollh\"{o}fer, Michael and Stoll, Carsten and Theobalt, Christian}, 
+    title = "{PatchNets: Patch-Based Generalizable Deep Implicit 3D Shape Representations}", 
+    journal = {European Conference on Computer Vision (ECCV)}, 
+    year = "2020" 
 } 
-
 @InProceedings{Park_2019_CVPR,
-author = {Park, Jeong Joon and Florence, Peter and Straub, Julian and Newcombe, Richard and Lovegrove, Steven},
-title = {DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation},
-booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
-year = {2019}
+    author = {Park, Jeong Joon and Florence, Peter and Straub, Julian and Newcombe, Richard and Lovegrove, Steven},
+    title = {DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation},
+    booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month = {June},
+    year = {2019}
 }
+```
 
 ## License
 
-Please note that this code is released under an MIT licence, see LICENCE. We have included and modified third-party components, which have their own licenses. We thank all of the respective authors for releasing their code, especially the team behind DeepSDF!
+Please note that this code is released under an MIT licence, see `LICENCE`. We have included and modified third-party components, which have their own licenses. We thank all of the respective authors for releasing their code, especially the team behind DeepSDF!
